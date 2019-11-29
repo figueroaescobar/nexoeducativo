@@ -1,0 +1,13 @@
+com\nigmacode\apiREST\dao\UserDAO.class
+com\nigmacode\apiREST\service\CargoServiceImpl.class
+com\nigmacode\apiREST\dao\CargoDAO.class
+com\nigmacode\apiREST\controller\UserRestController.class
+com\nigmacode\apiREST\controller\CargoRestController.class
+com\nigmacode\apiREST\dao\UserDAOImpl.class
+com\nigmacode\apiREST\dao\CargoDAOImpl.class
+com\nigmacode\apiREST\service\UserServiceImpl.class
+com\nigmacode\apiREST\ApiApplication.class
+com\nigmacode\apiREST\service\UserService.class
+com\nigmacode\apiREST\entity\User.class
+com\nigmacode\apiREST\entity\cargo.class
+com\nigmacode\apiREST\service\CargoService.class
